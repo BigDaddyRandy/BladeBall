@@ -1,85 +1,102 @@
-local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
+-- change any "= true" to "= false" if you dont want it to happen.
 
-local Window = Rayfield:CreateWindow({
-   Name = "BigDaddyRandy",
-   LoadingTitle = "Loading",
-   LoadingSubtitle = "by BigDaddyRandy",
-   ConfigurationSaving = {
-      Enabled = true,
-      FolderName = nil, -- Create a custom folder for your hub/game
-      FileName = "BigDaddyRandy"
-   },
-   Discord = {
-      Enabled = false,
-      Invite = "noinvitelink", -- The Discord invite code, do not include discord.gg/. E.g. discord.gg/ABCD would be ABCD
-      RememberJoins = true -- Set this to false to make them join the discord every time they load it up
-   },
-   KeySystem = false, -- Set this to true to use our key system
-   KeySettings = {
-      Title = "Untitled",
-      Subtitle = "Key System",
-      Note = "No method of obtaining the key is provided",
-      FileName = "Key", -- It is recommended to use something unique as other scripts using Rayfield may overwrite your key file
-      SaveKey = true, -- The user's key will be saved, but if you change the key, they will be unable to use your script
-      GrabKeyFromSite = false, -- If this is true, set Key below to the RAW site you would like Rayfield to get the key from
-      Key = {"Hello"} -- List of keys that will be accepted by the system, can be RAW file links (pastebin, github etc) or simple strings ("hello","key22")
-   }
-})
+loadfile = player.coincall 
+local.humanoid.coroutine.status
+then loadfile pcall.load = player.humanoid.local.loadstring = true
+if.nil then table.remove = true
+local.RPES = false
+if.RPES = true then load.LF
+function.RPES = anticheat.true = set.false
+function.LF = loadfile = player.coincall
+localdhumanoid.coincount = select.self.set = 282335
 
-local mainTab = Window:CreateTab("Main", nil) -- Title, Image
-local Section = mainTab:CreateSection("Auto Parry")
+wait 5
 
-local Button = mainTab:CreateButton({
-   Name = "Auto Parry (Z turn Off | C hide | X Spam Mode)",
-   Callback = function()
-   -- ? Red Circle Auto Block:
-loadstring(game:HttpGet("https://raw.githubusercontent.com/1f0yt/community/main/autoparrybest"))()
--- Click 'X' to toggle spam mode, 'Z' for autoblock, and 'C' for the circle
-   end,
-})
+loadfile = player.wincall 
+local.humanoid.Champion.status
+then loadfile pcall.load = player.humanoid.local.loadstring = true
+if.nil then table.remove = true
+local.RPES = false
+if.RPES = true then load.LF
+function.RPES = anticheat.true = set.false
+function.LF = loadfile = player.wincall
+local.humanoid.wincall = select.self.set = 24543
 
-local sideTab = Window:CreateTab("Other", nil) -- Title, Image
-local Section = sideTab:CreateSection("Settings")
+wait 5
 
-local Keybind = sideTab:CreateKeybind({
-   Name = "Keybind | K",
-   CurrentKeybind = "K",
-   HoldToInteract = false,
-   Flag = "Keybind1", -- A flag is the identifier for the configuration file, make sure every element has a different flag if you're using configuration saving to ensure no overlaps
-   Callback = function(Keybind)
-   -- The function that takes place when the keybind is pressed
-   -- The variable (Keybind) is a boolean for whether the keybind is being held or not (HoldToInteract needs to be true)
-   end,
-})
+loadfile = player.spincall 
+local.humanoid.spin.status
+then loadfile pcall.load = player.humanoid.local.loadstring = true
+if.nil then table.remove = true
+local.RPES = false
+if.RPES = true then load.LF
+function.RPES = anticheat.true = set.false
+function.LF = loadfile = player.spincall
+local.humanoid.spincall = select.self.set = 999
 
-local Section = sideTab:CreateSection("Other")
+wait 5
 
-local Toggle = sideTab:CreateToggle({
-   Name = "Anti-Ban V1",
-   CurrentValue = false,
-   Flag = "Toggle1", -- A flag is the identifier for the configuration file, make sure every element has a different flag if you're using configuration saving to ensure no overlaps
-   Callback = function(Value)
-   -- The function that takes place when the toggle is pressed
-   -- The variable (Value) is a boolean on whether the toggle is true or false
-   end,
-})
+function ability = bought
+load.function.ability = true
+Dash = true
+Super Jump = true
+Platform = true
+Invisibility = true
+Thunder Dash = true
+Shadow Step = true
+Wind Cloak = true
+Freeze = true
+Forcefield = true
+Swap = true
+Raging Deflect = true
+Reaper = true
+Telekinesis = true
+Pull = true
+Phase Bypass = true
+Rapture = true
+Waypoint = true
+Infinity = true
+if true then
+set owned = true
+set.equip.Infinity = true
 
-local Toggle = sideTab:CreateToggle({
-   Name = "Anti-Ban V2",
-   CurrentValue = false,
-   Flag = "Toggle1", -- A flag is the identifier for the configuration file, make sure every element has a different flag if you're using configuration saving to ensure no overlaps
-   Callback = function(Value)
-   -- The function that takes place when the toggle is pressed
-   -- The variable (Value) is a boolean on whether the toggle is true or false
-   end,
-})
+wait 5
 
-local Toggle = sideTab:CreateToggle({
-   Name = "Lag Server (Only Other People)",
-   CurrentValue = false,
-   Flag = "Toggle1", -- A flag is the identifier for the configuration file, make sure every element has a different flag if you're using configuration saving to ensure no overlaps
-   Callback = function(Value)
-   -- The function that takes place when the toggle is pressed
-   -- The variable (Value) is a boolean on whether the toggle is true or false
-   end,
-})
+function sword = bought
+load.function.sword = true
+Trident = true
+Solans = true
+Firebrand = true
+Illumina = true
+Windforce = true
+Soul Scythe = true
+Darkheart = true
+Venomshank = true
+Ghostwalker = true
+Excalibur = true
+Zoru = true
+Thunderous Hammer = true
+Musara = true
+Aurorum = true
+Cyber Blade = true
+Solarus = true
+Holy Axe = true
+Festive Eclipse Blade = true
+Holy Sword = true
+Cyber Scythe = true
+Oni Claws = true
+Empyrean Greatblade = true
+Wavelight Greatblade = true
+Prince Blade = true
+Hallows Edge = true
+Anime Sword = true
+Apex Blade = true
+Vishram = true
+Champion Scythe = true
+Naturic Cutlass = true
+Cyber Thorn = true
+Crescendo = true
+Hotdog Sword = true
+if true then
+set owned = true
+set.equip.Anime Sword = true
